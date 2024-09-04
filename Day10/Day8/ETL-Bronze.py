@@ -1,8 +1,5 @@
 # Databricks notebook source
 dbutils.widgets.text("environment", "dev")
-
-# COMMAND ----------
-
 v=dbutils.widgets.get("environment")
 
 # COMMAND ----------
