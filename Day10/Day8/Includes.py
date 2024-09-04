@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC Includes
+
+# COMMAND ----------
+
 input_path = "dbfs:/FileStore/tables/"
 
 # COMMAND ----------
